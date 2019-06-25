@@ -5,4 +5,5 @@ function test(){
   console.log('2222')
   console.log(22333)
   console.log(2223333)
+  console.log(444)
 }
