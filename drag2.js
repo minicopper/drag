@@ -5,5 +5,5 @@ function test(){
   console.log('111')
   console.log(22322233)
   console.log(333)
-  console.log(4444)
+  console.log(555)
 }
