@@ -6,5 +6,7 @@ function drag(id){
     var disX,disY;
     obj.onmousedown=function(){
         console.log('test')
+        console.log(1111)
     }
+    console.log(1111)
 }
